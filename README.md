@@ -1,8 +1,8 @@
 # Budged-Calculator
 
-#UsedPrograms
--JavaScript
--CSS
--HTML5
+#UsedPrograms <br>
+-JavaScript <br>
+-CSS <br>
+-HTML5 <br>
 
 ![](gif/harcama.gif)
